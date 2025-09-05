@@ -7,37 +7,37 @@ const WeddingPartySection = () => {
       id: 1,
       name: "Leslie Alexander",
       role: "Brides Brother",
-      image: "/wedding-invitation3/lovable-uploads/m1.jpg"
+      image: "/lovable-uploads/m1.jpg"
     },
     {
       id: 2,
       name: "Jenny Wilson", 
       role: "Brides Sister",
-      image: "/wedding-invitation3/lovable-uploads/m2.webp"
+      image: "/lovable-uploads/m2.webp"
     },
     {
       id: 3,
       name: "Robert Fox",
       role: "Brides Brother", 
-      image: "/wedding-invitation3/lovable-uploads/m3.jpg"
+      image: "/lovable-uploads/m3.jpg"
     },
     {
       id: 4,
       name: "Jerome Bell",
       role: "Groom's Sister",
-      image: "/wedding-invitation3/lovable-uploads/m4.webp"
+      image: "/lovable-uploads/m4.webp"
     },
     {
       id: 5,
       name: "Esther Howard",
       role: "Groom's Brother",
-      image: "/wedding-invitation3/lovable-uploads/m5.webp"
+      image: "/lovable-uploads/m5.webp"
     },
     {
       id: 6,
       name: "Bessie Cooper",
       role: "Brides ",
-      image: "/wedding-invitation3/lovable-uploads/m6.jpg"
+      image: "/lovable-uploads/m6.jpg"
     }
   ];
 

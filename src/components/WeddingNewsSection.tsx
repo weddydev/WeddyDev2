@@ -10,7 +10,7 @@ const WeddingNewsSection = () => {
       author: "By Family & Friends",
       date: "22 Sep 2026",
       description: "The Haldi ceremony is a beautiful ritual where turmeric paste is applied to the bride and groom. It symbolizes purity, prosperity, and wards off evil. It’s filled with laughter, blessings, and vibrant yellow hues.",
-      image: "/wedding-invitation3/lovable-uploads/t1.webp",
+      image: "/lovable-uploads/t1.webp",
 
     },
     {
@@ -20,7 +20,7 @@ const WeddingNewsSection = () => {
       author: "By Family & Friends",
       date: "25 Sep 2026",
       description: "The Mehendi ceremony celebrates joy and artistry. Intricate henna designs are applied to the bride’s hands and feet, symbolizing love, happiness, and good fortune. The evening is filled with music, dance, and fun.",
-      image: "/wedding-invitation3/lovable-uploads/t2.jpg",
+      image: "/lovable-uploads/t2.jpg",
 
     },
     {
@@ -30,7 +30,7 @@ const WeddingNewsSection = () => {
       author: "By Family & Friends",
       date: "25 Sep 2026",
       description: "The Sanchak (pre-wedding) gathering is where close relatives and friends come together to bless the couple. It’s marked by traditional rituals, cultural songs, and a heartwarming family atmosphere.",
-      image: "/wedding-invitation3/lovable-uploads/t3.jpg",
+      image: "/lovable-uploads/t3.jpg",
 
     }
   ];
