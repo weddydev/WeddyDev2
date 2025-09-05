@@ -5,42 +5,42 @@ const GallerySection = () => {
   const galleryImages = [
     {
       id: 1,
-      src: "/wedding-invitation3/lovable-uploads/haldi.jpg",
+      src: "/lovable-uploads/haldi.jpg",
       alt: "Engagement Photos",
       category: "Engagement",
       className: "row-span-2"
     },
     {
       id: 2,
-      src: "/wedding-invitation3/lovable-uploads/marriage2.avif",
+      src: "/lovable-uploads/marriage2.avif",
       alt: "Pre-wedding Moments",
       category: "Pre-Wedding",
       className: "row-span-1"
     },
     {
       id: 3,
-      src: "/wedding-invitation3/lovable-uploads/marriage3.jpg",
+      src: "/lovable-uploads/marriage3.jpg",
       alt: "Haldi Ceremony",
       category: "Haldi",
       className: "row-span-2"
     },
     {
       id: 4,
-      src: "/wedding-invitation3/lovable-uploads/marriage4.jpg",
+      src: "/lovable-uploads/marriage4.jpg",
       alt: "Mehendi Ceremony",
       category: "Mehendi", 
       className: "row-span-1"
     },
     {
       id: 5,
-      src: "/wedding-invitation3/lovable-uploads/marriage5.avif",
+      src: "/lovable-uploads/marriage5.avif",
       alt: "Sagai Ceremony",
       category: "Sagai",
       className: "row-span-1"
     },
     {
       id: 6,
-      src: "/wedding-invitation3/lovable-uploads/marriage6.webp",
+      src: "/lovable-uploads/marriage6.webp",
       alt: "Wedding Preparations",
       category: "Preparation",
       className: "row-span-1"
