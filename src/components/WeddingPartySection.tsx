@@ -1,6 +1,8 @@
 import plumeriaFlowers from "@/assets/plumeria-flowers.png";
 import lovebirdIcon from "@/assets/lovebird-icon.png";
 
+
+
 const WeddingPartySection = () => {
   const weddingParty = [
     {
