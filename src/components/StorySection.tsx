@@ -143,7 +143,7 @@ const StorySection = () => {
               <div className="relative max-w-md ml-auto">
                 <div className="bg-white p-4 rounded-lg shadow-lg transform rotate-1">
                   <img
-                    src="/wedding-invitation3/lovable-uploads/f18caf4b-a804-4a60-a329-35c5660a9fac.png"
+                    src="/lovable-uploads/f18caf4b-a804-4a60-a329-35c5660a9fac.png"
                     alt="First time we met"
                     className="w-full h-64 sm:h-80 object-cover rounded-md"
                   />
@@ -188,7 +188,7 @@ const StorySection = () => {
               <div className="relative max-w-md mr-auto">
                 <div className="bg-white p-4 rounded-lg shadow-lg transform -rotate-1">
                   <img
-                    src="/wedding-invitation3/lovable-uploads/q2.webp"
+                    src="/lovable-uploads/q2.webp"
                     alt="Our first date"
                     className="w-full h-64 sm:h-80 object-cover rounded-md"
                   />

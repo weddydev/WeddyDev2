@@ -40,12 +40,13 @@ const CoupleSection = () => {
                 {/* Profile Image Circle */}
                 <div className="w-48 h-48 sm:w-56 sm:h-56 mx-auto rounded-full overflow-hidden border-4 border-white shadow-lg">
                   <img
-                    src="/wedding-invitation3/lovable-uploads/talha.png"
+                    src="/lovable-uploads/talha.png"
                     alt="Jenny Wilson"
                     className="w-full h-full object-cover"
                   />
                 </div>
               </div>
+
 
               {/* Name */}
               <h3 className="text-4xl sm:text-5xl font-dancing font-bold text-primary mb-6">
@@ -81,7 +82,7 @@ const CoupleSection = () => {
                 {/* Profile Image Circle */}
                 <div className="w-48 h-48 sm:w-56 sm:h-56 mx-auto rounded-full overflow-hidden border-4 border-white shadow-lg">
                   <img
-                    src="/wedding-invitation3/lovable-uploads/bhabhi1.jpg"
+                    src="/lovable-uploads/bhabhi1.jpg"
                     alt="Leslie Alexander"
                     className="w-full h-full object-cover"
                   />
