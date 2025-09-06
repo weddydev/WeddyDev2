@@ -47,6 +47,7 @@ const CoupleSection = () => {
                 </div>
               </div>
 
+
               {/* Name */}
               <h3 className="text-4xl sm:text-5xl font-dancing font-bold text-primary mb-6">
                 Syed Mohammed 
