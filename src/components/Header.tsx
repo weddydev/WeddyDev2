@@ -1,6 +1,9 @@
 import plumeriaFlowers from "@/assets/plumeria-flowers.png";
 import lovebirdIcon from "@/assets/lovebird-icon.png";
 
+
+
+
 const Header = () => {
   return (
     <header className="w-full px-6 py-8 bg-gradient-to-b from-wedding-pink-light/10 to-background relative overflow-hidden">
