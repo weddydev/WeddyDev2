@@ -8,6 +8,10 @@ interface TimeLeft {
   seconds: number;
 }
 
+
+
+
+
 const CountdownTimer = () => {
   const weddingDate = new Date("2026-12-08T00:00:00").getTime();
   
