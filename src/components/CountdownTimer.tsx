@@ -55,6 +55,7 @@ const CountdownTimer = () => {
 
   return (
     <div className="flex flex-wrap justify-center gap-6 sm:gap-8 mt-8">
+      timer
       {timeUnits.map((unit, index) => (
         <div key={index} className="flex flex-col items-center relative">
           <div className="relative">
